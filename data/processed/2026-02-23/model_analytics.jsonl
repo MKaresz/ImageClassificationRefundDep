@@ -1,0 +1,6 @@
+{
+  "most_frequent_class": "Bag",
+  "most_frequent_class_share": 0.8333333333333334,
+  "warning_model_drift": false,
+  "warning_imbalance": true
+}

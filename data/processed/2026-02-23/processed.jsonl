@@ -1,0 +1,6 @@
+{"timestamp": "2026-02-24T12:52:47.985961+01:00", "item_id": "Shoe_0.jpg", "predicted": "Bag", "confidence": 0.9999942779541016, "status": "ok", "model_version": "v0.1"}
+{"timestamp": "2026-02-24T12:52:47.985961+01:00", "item_id": "Shoe_1.jpg", "predicted": "Bag", "confidence": 0.9999908208847046, "status": "ok", "model_version": "v0.1"}
+{"timestamp": "2026-02-24T12:52:47.985961+01:00", "item_id": "Shoe_2.jpg", "predicted": "Bag", "confidence": 0.9999942779541016, "status": "ok", "model_version": "v0.1"}
+{"timestamp": "2026-02-24T12:52:47.985961+01:00", "item_id": "Shoe_22.jpg", "predicted": "Bag", "confidence": 0.9999942779541016, "status": "ok", "model_version": "v0.1"}
+{"timestamp": "2026-02-24T12:52:47.985961+01:00", "item_id": "Shoe_4.jpg", "predicted": "Trouser", "confidence": 0.9637710452079773, "status": "ok", "model_version": "v0.1"}
+{"timestamp": "2026-02-24T12:52:47.985961+01:00", "item_id": "Shoe_5.jpg", "predicted": "Bag", "confidence": 0.9591262936592102, "status": "ok", "model_version": "v0.1"}

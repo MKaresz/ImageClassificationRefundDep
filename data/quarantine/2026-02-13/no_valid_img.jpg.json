@@ -1,0 +1,6 @@
+{
+  "timestamp": "2026-02-23T10:20:06.226611+01:00",
+  "item_id": "no_valid_img.jpg",
+  "error": "Client-side load decode failure:",
+  "code": "cannot identify image file 'data\\\\raw\\\\2026-02-13\\\\no_valid_img.jpg'"
+}
